@@ -16,4 +16,12 @@ Reset CSS
     body{
         font-size: 1.6rem;
     }
+
+    img{
+        max-width: 100%;
+    }
+
+    a:not([target="_blank"]){
+        text-decoration: none;
+    }
 /**/
