@@ -1,6 +1,4 @@
-/* 
-Reset CSS 
-*/
+/* Reset CSS */
     *{
         margin:0;
         padding: 0;
@@ -24,4 +22,13 @@ Reset CSS
     a:not([target="_blank"]){
         text-decoration: none;
     }
+/**/
+
+/* Layout */
+
+    header, main, footer{
+        max-width: 80rem;
+        margin: auto;
+    }
+
 /**/
